@@ -9,6 +9,10 @@
 
 Get started with our powerful and easy-to-use Python scripts! 🔧✨
 
+## Requirements
+
+- Python 3.7 or higher
+- PowerShell (pre-installed on Windows)
 
 ## Installation
 
