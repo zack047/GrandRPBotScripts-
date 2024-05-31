@@ -48,10 +48,6 @@ python demorgan.py
 - Verify your Python version is 3.7 or higher.
 - Check your configuration settings in `config.json`.
     
-## Authors
-
-- [@Kaushal Kadam](https://github.com/zack047)
-
 ## Contact
 
 💬 **Discord**: Join our community on [Discord](https://discord.gg/your-discord-server-link)
@@ -66,3 +62,8 @@ If you encounter any issues or have questions, feel free to reach out!
 
 ## Contributing
 Feel free to fork this repository, create your own branches, and submit pull requests. Please ensure your code adheres to the project's coding standards.
+
+## Authors
+
+- [@Kaushal Kadam](https://github.com/zack047)
+- 
